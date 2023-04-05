@@ -46,6 +46,17 @@ a {
     justify-content: space-between;
 }
 
+.header-nav, .header-content__line {
+    display: block;
+}
+
+.searchHeader {
+    width: 250px;
+    padding-bottom: 10px;
+    display: none;
+    align-items: center;
+}
+
 .header-icon {
     display: flex;
     align-items: center;
